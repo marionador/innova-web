@@ -1,0 +1,72 @@
+/* Estilos Generales */
+body {
+    font-family: 'Poppins';
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100%;
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#logo {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    filter: drop-shadow(16px 7px 8px #939393);
+}
+
+/* Estilos del Encabezado */
+header {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header img {
+    width: 200px;
+}
+
+/* Estilos de las Secciones */
+section {
+    width: 70%;
+    margin: auto;
+    padding: 50px 0;
+}
+
+section h2 {
+    margin-bottom: 30px;
+    border-bottom: 1px solid;
+}
+
+section h3 {
+    color: rgb(20, 86, 165);
+    margin-top: 50px;
+}
+
+section h4 {
+    margin-top: 40px;
+}
+
+section .images {
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+section {
+    text-align: justify;
+}
+
+/* Estilos del Pie de Página */
+footer {
+    background-color: #343a40;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
